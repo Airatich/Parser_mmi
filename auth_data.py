@@ -1,2 +1,2 @@
-login_data="a.gafiyatullin@metalsmining.ru"
-password_data="mmi123"
+login_data=""
+password_data=""
